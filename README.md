@@ -1,3 +1,9 @@
+# Good news
+
+Ongoing development of `dotnet-outdated` is moving back to [dotnet-outdated](https://github.com/dotnet-outdated/dotnet-outdated).
+
+I'm archiving this repo. I will deprecate my NuGet packages as soon as we release a new unofficial official package.
+
 [![Build Status](https://github.com/coderpatros/dotnet-outdated/workflows/Release/badge.svg)](https://github.com/coderpatros/dotnet-outdated/actions?workflow=Release)
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 [![NuGet Version](https://img.shields.io/nuget/v/coderpatros-dotnet-outdated.svg)](https://www.nuget.org/packages/coderpatros-dotnet-outdated/)
